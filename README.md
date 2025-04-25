@@ -11,7 +11,7 @@
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites:
 - Python 3.x
 - TensorFlow
 - CNN
