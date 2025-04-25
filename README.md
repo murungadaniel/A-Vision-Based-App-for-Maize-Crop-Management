@@ -1,4 +1,4 @@
-# A-Vision-Based-App-for-Maize-Crop-Management
+# A Vision Based App for Maize Crop Management
 # ZeaWatch: Maize Leaf Disease Detection
 
 **ZeaWatch** is a mobile-based application that utilizes AI to detect leaf diseases in maize crops using images captured via a mobile camera. The app uses a hybrid model combining Convolutional Neural Networks (CNN) and Transformers to provide accurate diagnoses and treatment suggestions for farmers.
