@@ -14,8 +14,7 @@
 ### Prerequisites
 - Python 3.x
 - TensorFlow
-- React Native (for mobile app)
-- Flask/FastAPI (for the backend API)
+- CNN
 
 ### Installing Dependencies
 Clone the repo and install dependencies using:
